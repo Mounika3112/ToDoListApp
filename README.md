@@ -28,11 +28,11 @@ It is a simple Multi-page app with added animations, the start page consists of 
 
 <img src="/images/Screenshot_20240110_151120.png" height="400">       <img src="/images/Screenshot_20240110_151033.png" height="400">
 
-<img src="/images/Screenshot_20240110_151000.png" height="400">       <img src="/images/Screenshot_20240110_150929.png" height="400">
+<img src="/images/Screenshot_20240110_150929.png" height="400">       <img src="/images/Screenshot_20240110_151000.png" height="400">       
 
 <img src="/images/Screenshot_20240110_150836.png" height="400">       <img src="/images/Screenshot_20240110_150752.png" height="400">
 
-<img src="/images/Screenshot_20240110_150419.png" height="400">       <img src="/images/Screenshot_20240110_150117.png" height="400">
+<img src="/images/Screenshot_20240110_150117.png" height="400">       <img src="/images/Screenshot_20240110_150419.png" height="400">       
 
 
 
