@@ -25,5 +25,12 @@ Local Storage : The app uses local storage to save tasks.
 ScreenShots
 
 <img src="/images/Screenshot_20240110_151120.png" height="400">
+<img src="/images/Screenshot_20240110_151033.png" height="400">
+<img src="/images/Screenshot_20240110_151000.png" height="400">
+<img src="/images/Screenshot_20240110_150929.png" height="400">
+<img src="/images/Screenshot_20240110_150836.png" height="400">
+<img src="/images/Screenshot_20240110_150752.png" height="400">
+<img src="/images/Screenshot_20240110_150419.png" height="400">
+<img src="/images/Screenshot_20240110_150117.png" height="400">
 
 
