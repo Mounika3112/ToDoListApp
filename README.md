@@ -36,30 +36,30 @@ It is a simple Multi-page app with added animations, the start page consists of 
 
 
 
-1. **Minimum SDK level 26:** Requires Android version 8.0 or higher to run the app smoothly.
+ **Minimum SDK level 26:** Requires Android version 8.0 or higher to run the app smoothly.
 
-2. **Kotlin:** Programming language used for app development, known for its conciseness and safety.
+ **Kotlin:** Programming language used for app development, known for its conciseness and safety.
 
-3. **Lifecycle:** Observes changes in how the app operates and manages UI states accordingly.
+ **Lifecycle:** Observes changes in how the app operates and manages UI states accordingly.
 
-4. **ViewModel:** Handles UI-related data and adapts to changes in the app's display, ensuring data persists during screen rotations or other configurations.
+ **ViewModel:** Handles UI-related data and adapts to changes in the app's display, ensuring data persists during screen rotations or other configurations.
 
-5. **DataBinding:** Connects UI elements in app layouts directly to data sources, streamlining the process without manual coding.
+ **DataBinding:** Connects UI elements in app layouts directly to data sources, streamlining the process without manual coding.
 
-6. **Room:** Simplifies database creation and access by abstracting SQLite, making database interactions more seamless.
+ **Room:** Simplifies database creation and access by abstracting SQLite, making database interactions more seamless.
 
-7. **Navigation Component Graphs:** Facilitates the use of a single activity with multiple fragments for smoother app navigation.
+ **Navigation Component Graphs:** Facilitates the use of a single activity with multiple fragments for smoother app navigation.
 
-8. **Hilt:** Manages dependency injection, helping to organize and simplify code by handling component injection.
+ **Hilt:** Manages dependency injection, helping to organize and simplify code by handling component injection.
 
-9. **Coroutines:** Enables easier asynchronous programming, allowing smoother handling of operations like fetching data without blocking the app.
+ **Coroutines:** Enables easier asynchronous programming, allowing smoother handling of operations like fetching data without blocking the app.
 
-10. **Architecture:**
+**Architecture:**
     - **MVVM Architecture:** Organizes app components into View, DataBinding, ViewModel, and Model for more structured and manageable code.
     - **Repository Pattern:** Abstracts data sources, making it easier to manage and access data.
 
-11. **Material Components:** Utilizes design elements conforming to Google's Material Design guidelines, enabling the creation of visually appealing interfaces with ripple animations and CardViews.
+**Material Components:** Utilizes design elements conforming to Google's Material Design guidelines, enabling the creation of visually appealing interfaces with ripple animations and CardViews.
 
-12. **ColorPicker:** A simple tool that provides a user-friendly interface for selecting colors using a color wheel and a lightness bar in Android apps.
+**ColorPicker:** A simple tool that provides a user-friendly interface for selecting colors using a color wheel and a lightness bar in Android apps.
 
 
